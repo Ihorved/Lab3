@@ -1,0 +1,4 @@
+C:\Users\igorv\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorv\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\igorv\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net6.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\igorv\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
